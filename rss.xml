@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DoubleStripe ]]></title>
+        <description><![CDATA[DoubleStripe ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 21:13:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building N-Tier RESTful API using ASP.NET Web API 2 (Part 1)]]></title>
+            <description><![CDATA[<article><h1>Building N-Tier RESTful API using ASP.NET Web API 2 (Part 1)</h1><p>Tutorial Introduction Hi everyone, and welcome in the first part of "Building N-Tier RESTful API using ASP.NET Web API 2" Tutorial. In this tutorial you'll learn how to develop an API using ASP.NET Web API 2, N-Tier Architecture, and a lot of stuff that will help you to get started building your awesome API confidently...</p><img src="https://ibrahimabdelkareem.files.wordpress.com/2016/01/1-1.png?w=630"></article>]]></description>
+            <link>https://ibrahimabdelkareem.wordpress.com/2016/01/22/building-n-tier-restful-api-using-asp-net-web-api-2-part-1/</link>
+            <guid isPermaLink="false">458cf33a-e0f8-400d-9d08-f77bbbebe1c6</guid>
+            <pubDate>Tue, 29 Mar 2016 21:12:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
