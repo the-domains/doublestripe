@@ -1,14 +1,29 @@
+name: doublestripe
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.5394265
+title: 'DoubleStripe '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9835566
-  brandStrength: 0.3921646
-  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#171516'
     - '#FCD307'
     - '#E02878'
     - '#B4B3B4'
+  brandStrength: 0.3921646
+  lightness: 1
+  saturation: 0.9835566
   rhythmicContrast: 0.5322581
-typography_spectrum: 0.5394265
-name: doublestripe
+purpose: []
